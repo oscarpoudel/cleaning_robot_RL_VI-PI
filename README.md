@@ -5,23 +5,7 @@ This repository contains the implementation, training notebooks, and experiments
 
 ---
 
-## 📖 Project Overview
-Recycling processes often require significant human effort and suffer from inefficiencies in sorting.  
-The **Recycling Robot VI-PI** leverages computer vision, robotics, and AI-based decision-making to:
-- Detect recyclable materials in real-time.
-- Classify objects into categories (plastic, metal, paper, glass, etc.).
-- Automate physical sorting actions using a robotic manipulator or conveyor system.
 
----
-
-## 🚀 Features
-- **Computer Vision Models**: Deep learning pipelines for object detection and classification.
-- **Data Preprocessing**: Augmentation, normalization, and dataset preparation.
-- **Training & Evaluation**: Notebook-based experiments with performance metrics.
-- **Integration**: Robotics control layer for actuation (arm/gripper or conveyor).
-- **Visualization**: Real-time detection overlay and confusion matrix tracking.
-
----
 
 ## 📂 Repository Structure
 ```plaintext

@@ -5,7 +5,7 @@ This repository contains the implementation, training notebooks, and experiments
 
 ---
 
-
+![alt imge](https://github.com/oscarpoudel/cleaning_robot_RL_VI-PI/blob/main/pictures/1.png)
 
 ## 📂 Repository Structure
 ```plaintext
